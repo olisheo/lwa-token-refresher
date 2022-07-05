@@ -1,0 +1,6 @@
+{
+    "tokenEndpoint": "https://api.amazon.co.jp/auth/o2/token",
+    "clientId": "amzn1.application-oa2-client.fd2ea9a12b7d4532b20029e7d1ed6429",
+    "clientSecret": "41d1917bcb037021411a789ed18d81422cbf1c02da591c6122b69088cd3bfcbd",
+    "refresh_token": "Atzr|IwFEBIt297w024ecQDHH"
+}
